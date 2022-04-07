@@ -1,0 +1,12 @@
+F:\Project\iOCI_Test\iOCI.Core\bin\Debug\net5.0\iOCO.Core.deps.json
+F:\Project\iOCI_Test\iOCI.Core\bin\Debug\net5.0\iOCO.Core.dll
+F:\Project\iOCI_Test\iOCI.Core\bin\Debug\net5.0\ref\iOCO.Core.dll
+F:\Project\iOCI_Test\iOCI.Core\bin\Debug\net5.0\iOCO.Core.pdb
+F:\Project\iOCI_Test\iOCI.Core\obj\Debug\net5.0\iOCO.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\iOCI_Test\iOCI.Core\obj\Debug\net5.0\iOCO.Core.AssemblyInfoInputs.cache
+F:\Project\iOCI_Test\iOCI.Core\obj\Debug\net5.0\iOCO.Core.AssemblyInfo.cs
+F:\Project\iOCI_Test\iOCI.Core\obj\Debug\net5.0\iOCO.Core.csproj.CoreCompileInputs.cache
+F:\Project\iOCI_Test\iOCI.Core\obj\Debug\net5.0\iOCO.Core.dll
+F:\Project\iOCI_Test\iOCI.Core\obj\Debug\net5.0\ref\iOCO.Core.dll
+F:\Project\iOCI_Test\iOCI.Core\obj\Debug\net5.0\iOCO.Core.pdb
+F:\Project\iOCI_Test\iOCI.Core\obj\Debug\net5.0\iOCO.Core.csproj.AssemblyReference.cache
